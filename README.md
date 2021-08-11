@@ -1,6 +1,6 @@
 # ML-examples
 Presents some developments on machine learning methods written in Python & Jypiter.
-Datasets and other info for modules:
+Datasets and other info for modules are below:
 #
 1 <---> Facebook Comment Volume Dataset Data Set https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset
 #
