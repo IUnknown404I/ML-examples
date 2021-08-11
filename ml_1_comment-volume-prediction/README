@@ -1,0 +1,39 @@
+================================================================================
+SUMMARY
+================================================================================
+
+Data Set Information:
+
+The Dataset is uploaded in ZIP format. The dataset contains 5 variants of the dataset, for the details about the variants and detailed analysis read and cite the research paper
+
+@INPROCEEDINGS
+
+{Sing1503:Comment,
+AUTHOR='Kamaljot Singh and Ranjeet Kaur Sandhu and Dinesh Kumar',
+TITLE='Comment Volume Prediction Using Neural Networks and Decision Trees',
+BOOKTITLE='IEEE UKSim-AMSS 17th International Conference on Computer Modelling and
+Simulation, UKSim2015 (UKSim2015)',
+ADDRESS='Cambridge, United Kingdom',
+DAYS=25,
+MONTH=mar,
+YEAR=2015,
+KEYWORDS='Neural Networks; RBF Network; Prediction; Facebook; Comments; Data Mining;
+REP Tree; M5P Trees.',
+ABSTRACT='The leading treads towards social networking services had drawn massive
+public attention from last one and half decade. The amount of data that is
+uploaded to these social networking services is increasing day by day. So,
+there is massive requirement to study the highly dynamic behavior of users
+towards these services. This is a preliminary work to model the user
+patterns and to study the effectiveness of machine learning predictive
+modeling approaches on leading social networking service Facebook. We
+modeled the user comment patters, over the posts on Facebook Pages and
+predicted that how many comments a post is expected to receive in next H
+hrs. In order to automate the process, we developed a software prototype
+consisting of the crawler, Information extractor, information processor and
+knowledge discovery module. We used Neural Networks and Decision Trees,
+predictive modeling techniques on different dataset variants and evaluated
+them under Hits(at)10 (custom measure), Area Under Curve, Evaluation Time
+and Mean Absolute error evaluation metrics. We concluded that the Decision
+trees performed better than the Neural Networks under light of all
+evaluation metrics.'
+}
